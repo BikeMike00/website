@@ -1,0 +1,149 @@
+
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', serif;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    }
+ 
+#wrapper   {
+        /*width: 960px;*/
+        /*min-height: 1080px;*/
+
+    }
+.nav {
+    background-color:#4390bc;
+    color:#ffffff;
+    list-style: none;
+    text-align: center;
+    padding: 0px 0 10px 0;
+    text-shadow: 1px 1px #B5B8B3;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px #black;
+    background-image: url(https://wallpapercave.com/wp/QV9xjnE.jpg);
+    width: 100%;
+    right: 0;
+    top: -10px;
+    left: 0;
+    
+
+
+}
+ 
+.nav a{
+    text-decoration:none;
+
+    color:#fff;
+    width:85px;
+    display:block;
+    padding:20px;
+    font-size:25px;
+    font-family:Berlin Sans FB demi;
+    transition:0.4s;
+
+ 
+}
+ 
+.nav > li {
+    display: inline-block;
+    padding-right: 0 25px 0 25px;
+}
+ 
+.nav > li > a {
+    color: #ffffff;
+}
+ 
+.nav > li > a:hover {
+    color: #4fc4c1;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px #050004;
+ 
+}
+  
+ul {
+ padding: 0px;
+ margin:  0px;
+ width: 100%;
+}﻿
+
+#container {
+    width: 674px;
+    min-height: 100px;
+    height: auto;
+    position: relative;
+    margin: 0 auto;
+    background: "https://i.pinimg.com/originals/a5/8d/47/a58d479d41264a7e7ce8686b87dd1e1f.jpg" ;
+}
+
+#body {
+    width: 616px;
+    padding: 5px 14px 5px 14px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+#footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+    width: 100%;
+    min-height: 20px;
+    margin: 0 auto;
+    border-color: blue;
+    border-width: thin;
+    border-style: solid;
+
+    
+}
+h1 { 
+color: blue;
+text-align: center;
+background-color: none;
+/*border-color: blue;
+border-width: thin;
+border-style: solid;*/
+}
+/*.Sidebar {
+list-style-type: none;  
+padding: 5;
+margin: 5;
+float: left;
+}*/
+
+
+.Sidebar li 
+{    
+text-align: center;
+background-color: #4390BE;
+border-color: blue;
+border-width: thin;
+border-style: solid;
+
+}
+
+.Sidebar {
+    border-color: blue;
+    border-style: double;
+    border-width: thick;
+    position:absolute;
+    
+    padding: 5px;
+    margin: 5px 10px;
+
+    list-style-type: none;  
+    padding: 5;
+    margin: 5;
+    float: left;
+}
+
+#sidebar
+{
+
+}
