@@ -1,2 +1,2 @@
 # website
-Demo website for school project. Yay
+Demo website for school project.
